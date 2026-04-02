@@ -17,7 +17,6 @@ passionate about building scalable backend systems.
 
 ## 🏆 Achievements
 - TCS CodeVita Season 13 — Qualified Round 2
-- Winner — Hack-O-Clock & SprintHacks Hackathons
 - LeetCode 1500+ rating · 400+ DSA problems solved
 
 ## 📫 Contact
